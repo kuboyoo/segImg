@@ -1,2 +1,2 @@
 # segImg
-最近傍探索に基づく半教師付き動画像セグメンテーション
+Superpixel-wise Region Annotation Tool.
