@@ -1,2 +1,2 @@
 # segImg
-Superpixel-wise Region Annotation Tool.
+Superpixel-wise Region Annotation Tool for Image Segmentation.
