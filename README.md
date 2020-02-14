@@ -7,3 +7,17 @@ Superpixel-wise Region Annotation Tool for Image Segmentation.
 * g++
 * OpenCV (with contrib)
 * Qt5
+
+## Usage
+### Linux
+`cd src`  
+`qmake`  
+`make -j4`  
+`./segImg`
+
+### Mac OS
+`cd src`
+add final line in segImg.pro `QMAKE_MACOSX_DEPLOYMENT_TARGET=10.9`  
+`qmake`  
+`make -j4`
+`./segImg/Contents/MacOS/segImg`
