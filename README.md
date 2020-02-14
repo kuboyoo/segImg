@@ -26,6 +26,6 @@ QMAKE_MACOSX_DEPLOYMENT_TARGET=10.9
 ```
 qmake
 make -j4
-./segImg/Contents/MacOS/segImg
+./segImg.app/Contents/MacOS/segImg
 ```
 
