@@ -1,5 +1,5 @@
 # segImg
-Superpixel-wise Region Annotation Tool for Image Segmentation.
+Superpixel-wise Region Annotation Tool for Image Segmentation. (My bachelor's thesis in 2018)
 
 ![png](https://github.com/kuboyoo/segImg/blob/master/assets/segImg.png)
 
