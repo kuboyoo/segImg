@@ -19,5 +19,5 @@ Superpixel-wise Region Annotation Tool for Image Segmentation.
 `cd src`  
 add final line in segImg.pro `QMAKE_MACOSX_DEPLOYMENT_TARGET=10.9`  
 `qmake`  
-`make -j4`
+`make -j4`  
 `./segImg/Contents/MacOS/segImg`
