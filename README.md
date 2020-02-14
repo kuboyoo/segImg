@@ -29,3 +29,5 @@ make -j4
 ./segImg.app/Contents/MacOS/segImg
 ```
 
+## Lisense
+This software includes the work that is distributed in the Apache License 2.0
